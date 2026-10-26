@@ -4,7 +4,7 @@
   <img alt="Cup of coffee" width="250px" src="https://user-images.githubusercontent.com/84254929/153191725-66ecd088-7784-498c-b71f-447291b8cbd5.png" />
   <br>
   <br>
-  <p align="center"><em>Confira o resultado do desafio em: <a href="https://wwilliamsantana.github.io/CafeShop/" target="_blank">williamsantana.github.io/CafeShop/</a></em></p>
+  <p align="center"><em>Confira o resultado do desafio em: <a href="https://wwilliamsantana.github.io/coffee-shop/" target="_blank">williamsantana.github.io/CafeShop/</a></em></p>
 </div>
 
 ## :computer: Sobre  
