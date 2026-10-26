@@ -1,4 +1,4 @@
-# CafeShop
+# Café Shop
 
 Landing page de uma cafeteria, desenvolvida com HTML, CSS e JavaScript. O projeto apresenta a identidade visual do estabelecimento, seu menu e seções para avaliações e reservas, com foco em uma navegação responsiva.
 
